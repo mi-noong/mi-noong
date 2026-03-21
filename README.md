@@ -81,5 +81,6 @@ I'm interested in building apps with Flutter and React.💻
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Thanks%20for%20visiting!%20☆‧⁺⊹˚.⋆&fontColor=ffffff&fontSize=24&animation=twinkling" />
