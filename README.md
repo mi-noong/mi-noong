@@ -31,8 +31,8 @@
     <div align= "left">  </div> 
     </div>
     <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Github Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=mi-noong&bg_color=180,afafd5,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&layout=compact&bg_color=180,afafd5,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Github Stats </h2> <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=mi-noong&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/> </div> 
     </div>
     
