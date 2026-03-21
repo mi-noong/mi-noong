@@ -36,7 +36,6 @@ I'm a Frontend Developer building mobile apps using Flutter and React.
 If you want to contact me, feel free to leave me a message!
 
 <br/>
-<br/>
 
 <div align="left">
   <h2>✨ Tech Stacks</h2>
@@ -69,7 +68,6 @@ If you want to contact me, feel free to leave me a message!
   </div>
 </div>
 
-<br/>
 <br/>
 
 
