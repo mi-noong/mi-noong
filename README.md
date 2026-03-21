@@ -8,7 +8,7 @@
 
 
 
-## Hi There 👋  
+## 👋 Hi There   
 
 <a href="https://github.com/mi-noong" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" />
@@ -28,13 +28,14 @@
 
 
 
-### Hello, I'm Minyoung Kim!
+### Hello, I'm Minyoung Kim!😊💗
 
 Good day!  
 I'm a Frontend Developer building mobile apps using Flutter and React.  
 
 If you want to contact me, feel free to leave me a message!
 
+<br/>
 <br/>
 
 <div align="left">
@@ -69,5 +70,19 @@ If you want to contact me, feel free to leave me a message!
 </div>
 
 <br/>
+<br/>
 
+
+## 📊 Github Stats
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mi-noong&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
