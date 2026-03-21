@@ -30,10 +30,9 @@
 
 ### Hello, I'm Minyoung Kim!😊💗
 
-Good day!  
-I'm a Frontend Developer building mobile apps using Flutter and React.  
-
-If you want to contact me, feel free to leave me a message!
+Good day!🌻  
+I'm an aspiring Frontend Developer eager to grow in the field.🔥 <br>
+I'm interested in building apps with Flutter and React.💻
 
 <br/>
 
