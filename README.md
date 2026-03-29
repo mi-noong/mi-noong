@@ -73,7 +73,7 @@ I'm interested in building apps with Flutter and React.💻
 
 ## 📊 Github Stats
 <table>
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="70%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
