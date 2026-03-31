@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.instagram.com/ciks0309/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:min250823@gmail.com">
