@@ -15,15 +15,15 @@
 </a>
 
 <a href="https://mi-noong.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-%231E77B5.svg?&style=flat-square&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-%231E77B5.svg?&style=flat-square&logo=Tistory&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/ciks0309/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:min250823@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 
