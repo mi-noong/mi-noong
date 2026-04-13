@@ -32,7 +32,7 @@
 
 Good day!🌻  
 I'm an aspiring Frontend Developer eager to grow in the field.🔥 <br>
-I'm interested in building apps with Flutter and React.💻
+I'm interested in building apps with Flutter and React Native.💻
 
 
 <br/>
