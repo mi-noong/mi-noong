@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.instagram.com/ciks0309/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:min250823@gmail.com">
@@ -42,9 +42,9 @@ I'm interested in building apps with Flutter and React Native.💻
 
   <h3>Used as the main</h3>
   <div>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/> <br>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" /> 
@@ -60,7 +60,7 @@ I'm interested in building apps with Flutter and React Native.💻
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Unity-232F3E?style=flat-square&logo=Unity&logoColor=white"> <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" >
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" >
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">  
   </div>
 </div>
@@ -72,7 +72,7 @@ I'm interested in building apps with Flutter and React Native.💻
 <table>
 <tr><td valign="top" width="70%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&hide_border=true&layout=compact" align="left" style="width: 100%"/>
 
 </td></tr></table>  
 
