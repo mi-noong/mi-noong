@@ -51,29 +51,12 @@ I'm interested in building apps with Flutter and React Native.💻
     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /> 
   </div>
-
-  <h3>Used at least once</h3>
-  <div>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Unity-232F3E?style=flat-square&logo=Unity&logoColor=white"> <br>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">  
-  </div>
 </div>
 
 <br/>
 
 
-## 📊 Github Stats
-<table>
-<tr><td valign="top" width="70%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi-noong&hide_border=true&layout=compact" align="left" style="width: 100%"/>
-
-</td></tr></table>  
 
 <br/>
 
