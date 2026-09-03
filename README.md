@@ -31,8 +31,8 @@
 ### Hello, I'm Minyoung Kim!😊💗
 
 Good day!🌻  
-I'm an aspiring Frontend Developer eager to grow in the field.🔥 <br>
-I'm interested in building apps with Flutter and React Native.💻
+I'm a student developer interested in Mobile App & Frontend Development. <br>
+I enjoy building meaningful user experiences with React Native and Flutter. 💻
 
 
 <br/>
